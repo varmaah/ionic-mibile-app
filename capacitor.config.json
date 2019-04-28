@@ -1,0 +1,6 @@
+{
+  "appId": "com.recipes-ionic-angular",
+  "appName": "ionic-mobile-app",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
